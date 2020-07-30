@@ -1,16 +1,14 @@
-### Hi there 👋
+![Header](https://github.com/FerUribeM/FerUribeM/blob/master/android-for-developers.svg)
 
-<!--
-**FerUribeM/FerUribeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Fernando Uribe
 
-Here are some ideas to get you started:
+Desarrollador Android con más de 3 años de experiencia, apasionado de la tecnología y el código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+* 💻 Kotlin | Java | Dart | Javascript
+
+<h2>Follow  Me</h2>
+<p align="left">
+	<button style="font-size:24px" href="https://github.com/FerUribeM">Github <i class="fa fa-github"></i></button>
+	<button style="font-size:24px" href="https://www.linkedin.com/in/feruribemagdaleno/">Linkedin <i class="fa fa-linkedin-square"></i></button>
+</p>
