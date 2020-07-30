@@ -1,4 +1,4 @@
-![Header](https://developer.android.com/images/social/android-developers.png)
+<img src="https://developer.android.com/images/social/android-developers.png" width="800" height="300" alt="Android">
 
 # Hi, I'm Fernando Uribe
 
